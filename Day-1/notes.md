@@ -1,0 +1,4 @@
+Ptyhon Notes:
+=============
+
+Variables:  
