@@ -1,4 +1,4 @@
-Ptyhon Notes:
+# Ptyhon Notes:
 =============
 
 Variables:  Variales are containers for storing data. Variables are nothing but names of memory locations  in which values are store.
