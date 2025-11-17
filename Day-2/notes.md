@@ -46,6 +46,48 @@
                  else(condition)
                      stmt5
                      stmt6
+# match statement: 
+   * it will check value equality
+           * Syntax: match(n)
+                         case1:
+                           ----
+                        
+                         case2:
+                           ----
+                           
+                         case3:
+                           ----
+                         case_:
+# Loop Statemetns:  
+    * we can use for repated code.
+                * while 
+                * For 
+
+* While loop: execute the specified conditiion where condition is true.
+        * Syntax: i=1
+                  while(i<=10>):
+                  print("")
+                  i=i+1
+* while-else:
+        i = 2
+        while i<10:
+           print(i)
+           if p==2
+           break
+           i=i+1
+        else:
+          print("")
+# For loop:
+    *  Range of values
+    * sequence type(str, list, tuple, set, dict) - we can use for loop only, we cant use while loop.
+                   syntax: 
+
+             
+            
+           
+                          
+
+
 
 
 
