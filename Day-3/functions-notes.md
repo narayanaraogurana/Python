@@ -28,3 +28,14 @@
      * default arguments: we can pass arguments at function definition only ..Ex.. def add(a=20,b=30    )
      * keyword arguments: parameter name also we can mention..mul(a=20,b=30)
      * Arbitory arguments: we can pass multiple function calls ..def hey(*x)
+     * Arbitory keywords: we can pass multiple key values under funtion call.
+# Return:return a value to the  functional calling area and exit from the function.
+# local vs global variables:
+        * local variables:  variables define and used in a function definition.
+        * local variables are accessiable with in that function definition only.
+        # Global variables:we can declare  variables outside the  function definitaion 
+# Variable :
+      * scope: region wise we can check the scope
+      * visibility: memory based
+      * lifetime: duration of time in which varialbe exits in memory, execution of program.
+       
